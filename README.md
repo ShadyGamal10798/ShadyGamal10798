@@ -1,10 +1,5 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Shady%20Gamal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Software%20Engineer%20%7C%20Competitive%20Programmer&descAlignY=58&descSize=18" width="100%"/>
-
-<a href="https://github.com/shadygamal10798">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Junior+Software+Engineer+%F0%9F%92%BB;Competitive+Programmer+%F0%9F%8F%86;Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
-</a>
+<h1 align="center">Hi 👋, I'm Shady Gamal</h1>
+<h3 align="center">Software Engineer | Competitive Programmer 🇪🇬</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shadygamal10798&label=Profile%20views&color=58A6FF&style=for-the-badge" alt="profile views" />
@@ -13,33 +8,19 @@
   </a>
 </p>
 
-</div>
-
 ---
 
 ## 🧑‍💻 About Me
 
-```typescript
-const shady = {
-    role: "Junior Software Engineer",
-    location: "Egypt 🇪🇬",
-    code: ["C++", "C#", "TypeScript", "JavaScript"],
-    stack: {
-        frontend: ["Angular", "Bootstrap", "HTML", "CSS"],
-        backend:  [".NET", "C#"],
-        tools:    ["Git", "Linux", "VS Code"]
-    },
-    interests: ["Competitive Programming", "Algorithms", "Problem Solving"],
-    currentFocus: "Mastering algorithms & building scalable apps",
-    funFact: "I solve problems for fun 🧩"
-};
-```
+- 💻 Software Engineer passionate about clean code and scalable apps
+- 🏆 Competitive programmer — love algorithms and problem solving
+- 🌱 Currently sharpening my skills in **Angular**, **.NET**, and **Data Structures**
+- 🧩 I solve problems for fun
+- 📫 Reach me through any of the links below
 
 ---
 
 ## 🛠️ Tech Stack
-
-<div align="center">
 
 ### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -61,85 +42,30 @@ const shady = {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-</div>
-
 ---
 
 ## 🏆 Competitive Programming
 
-<div align="center">
-  
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/El-Nakeb_Tiser_Fahmy)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/shadygamal)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/shady_gamal107)
-
-<img src="https://leetcard.jacoblin.cool/shadygamal?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="500"/>
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shadygamal10798&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadygamal10798&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shadygamal10798&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shadygamal10798&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shadygamal10798&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF7B72&area=true" alt="Activity Graph"/>
-</div>
 
 ---
 
 ## 🤝 Connect with Me
 
-<div align="center">
-
 <a href="https://linkedin.com/in/shady-gamal-8a9873186/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://www.hackerrank.com/shady_gamal107">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://codeforces.com/profile/El-Nakeb_Tiser_Fahmy">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+<a href="https://github.com/shadygamal10798">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://www.leetcode.com/shadygamal">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
-
-</div>
 
 ---
 
 <div align="center">
-  
-### 💭 Quote of the Day
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote"/>
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
-  
-  ⭐ From [shadygamal10798](https://github.com/shadygamal10798) — Thanks for visiting!
+  <i>⭐ Thanks for visiting my profile!</i>
 </div>
